@@ -1,2 +1,15 @@
 # B64-Discord-BOT
- Simple Discord Bot that encodes and then decodes base64
+
+## What's this B64-Discord-BOT ?
+Simple Discord Bot that encodes and then decodes base64
+
+
+## Thing to modify
+![B64-Discord-BOT](https://imgur.com/35TLsLP.png)
+
+## Encoding
+![B64-Discord-BOT](https://imgur.com/ITPmEso.png)
+
+## Decoding
+
+![B64-Discord-BOT](https://imgur.com/0bqTYcN.png)

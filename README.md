@@ -13,8 +13,8 @@ Simple Discord Bot that encodes and then decodes base64
 ![B64-Discord-BOT](https://imgur.com/6zU0cId.png)
 
 ## Encoding
-![B64-Discord-BOT](https://imgur.com/ITPmEso.png)
+![B64-Discord-BOT](https://imgur.com/RTgEIIp.png)
 
 ## Decoding
 
-![B64-Discord-BOT](https://imgur.com/0bqTYcN.png)
+![B64-Discord-BOT](https://imgur.com/cNejXz2.png)

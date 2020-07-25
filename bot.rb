@@ -95,7 +95,7 @@ bot.command(:about) do |event|
       embed.colour = 0x00ED00
       embed.title = 'About | RubyBOT'
       embed.thumbnail = Discordrb::Webhooks::EmbedThumbnail.new(url: 'https://cdn.discordapp.com/attachments/670678064564404230/708295120835051591/Ruby_logo.svg.png')
-      embed.add_field name: " \sCreator", value: "$Rayan [Overdrive]#0617", inline: true
+      embed.add_field name: " \sCreator", value: "$Kio₱", inline: true
       embed.add_field name: " \sLibrary", value: "discordrb", inline: true
       embed.add_field name: " \sLanguage", value: "Rb", inline: true
       embed.image = Discordrb::Webhooks::EmbedImage.new(url: 'https://cdn.discordapp.com/attachments/670678064564404230/714244262065209374/2pac.gif')
